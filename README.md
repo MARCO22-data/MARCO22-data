@@ -28,7 +28,7 @@ My primary interests lie in the application of rigorous quantitative methods to 
 
 <br>
 
-**Core Knowledge (Habilidades Fundamentais):**
+**Core Knowledge (Fundamental Habilities):**
 - 🧮 Applied Mathematics, Statistics and programming.
 
 
